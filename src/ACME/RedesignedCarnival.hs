@@ -1,3 +1,3 @@
 module ACME.RedesignedCarnival where
 
-hello = "Hello, world!"
+hello = "Mwahaha"
